@@ -1,0 +1,55 @@
+# Configuração da Liga
+league: premier_league
+
+# Caminhos dos arquivos
+paths:
+  data: ./data/
+  json_ligas: ./json_ligas/
+  results: ./resultados/
+
+# Configurações de Simulação
+simulation:
+  # Turno duplo (ida e volta)
+  double_round: true
+
+  # Fatores de aleatoriedade para o motor de simulação
+  random_factor_min: 0.5
+  random_factor_max: 1.5
+
+  # Seed para reproduzibilidade (remova ou defina como null para aleatoriedade)
+  seed: 42
+
+  # Gols mínimos esperados (evita zeros absolutos)
+  min_expected_goals: 0.1
+
+# Configurações de Output
+output:
+  # Separador para arquivos CSV
+  csv_separator: ";"
+
+  # Formato de timestamp para arquivos
+  timestamp_format: "%Y-%m-%d_%H-%M-%S"
+
+  # Incluir index no CSV
+  csv_include_index: false
+
+# Configurações de Log
+logging:
+  level: INFO
+  file: ./logs/simulation.log
+  format: "%(asctime)s - %(levelname)s - %(message)s"
+
+advanced:
+  # Considerar evolução de over → potencial ao longo da temporada
+  player_progression: true
+  # Estatísticas detalhadas por jogador
+  track_player_stats: true
+  # Respeitar formações táticas (11 titulares, reservas, etc)
+  respect_formations: true
+# Ligas disponíveis (para referência)
+available_leagues:
+  - premier_league
+  - la_liga
+  - serie_a
+  - bundesliga
+  - ligue_1

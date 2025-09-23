@@ -1,0 +1,49 @@
+# Exemplo de uso das configurações personalizadas
+# Para usar este exemplo, renomeie para config.yaml
+
+# Liga a ser simulada (opções: premier_league, la_liga, serie_a, bundesliga, ligue_1)
+league: la_liga
+
+# Caminhos dos arquivos
+paths:
+  data: ./data/
+  json_ligas: ./json_ligas/
+  results: ./resultados/
+
+# Configurações de Simulação
+simulation:
+  # Turno duplo (ida e volta) - futuro: implementar
+  double_round: true
+
+  # Fatores de aleatoriedade mais conservadores (menos surpresas)
+  random_factor_min: 0.7
+  random_factor_max: 1.3
+
+  # Sem seed para resultados totalmente aleatórios
+  seed: null
+
+  # Gols mínimos esperados
+  min_expected_goals: 0.2
+
+# Configurações de Output
+output:
+  # Separador para arquivos CSV (use "," para Excel internacional)
+  csv_separator: ","
+
+  # Formato de timestamp personalizado
+  timestamp_format: "%d-%m-%Y_%H%M%S"
+
+  # Incluir nomes dos times como primeira coluna no CSV
+  csv_include_index: true
+
+# Configurações de Log (DEBUG, INFO, WARNING, ERROR)
+logging:
+  level: DEBUG
+
+# Ligas disponíveis (para referência)
+available_leagues:
+  - premier_league
+  - la_liga
+  - serie_a
+  - bundesliga
+  - ligue_1

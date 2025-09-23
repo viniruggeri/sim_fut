@@ -1,0 +1,5545 @@
+{
+  "version": "1.0.0",
+  "created_at": "2025-09-23T00:57:47.653766",
+  "hash": "a52a80be4d011bb6e15bae212d7654844487a6aa22ed9d59ca41065203c38326",
+  "liga": 53,
+  "times": {
+    "Athletic Club": {
+      "medias": {
+        "ataque": 70.7,
+        "meio": 75.8,
+        "defesa": 77.4,
+        "goleiro": 71.3
+      },
+      "jogadores": {
+        "Nico Williams -": {
+          "overall": 85,
+          "potential": 89,
+          "altura_cm": 181,
+          "peso_kg": 67,
+          "foto": "https://cdn.sofifa.net/players/256/516/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Unai Simón -": {
+          "overall": 85,
+          "potential": 86,
+          "altura_cm": 190,
+          "peso_kg": 89,
+          "foto": "https://cdn.sofifa.net/players/230/869/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Vivian -": {
+          "overall": 83,
+          "potential": 87,
+          "altura_cm": 183,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/248/550/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Sancet -": {
+          "overall": 83,
+          "potential": 88,
+          "altura_cm": 188,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/244/675/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Iñaki Williams -": {
+          "overall": 83,
+          "potential": 83,
+          "altura_cm": 186,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/216/201/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Álex Berenguer -": {
+          "overall": 82,
+          "potential": 82,
+          "altura_cm": 175,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/225/201/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Yeray -": {
+          "overall": 81,
+          "potential": 81,
+          "altura_cm": 182,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/227/950/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Ruiz de Galarreta -": {
+          "overall": 80,
+          "potential": 80,
+          "altura_cm": 175,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/205/157/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "De Marcos -": {
+          "overall": 80,
+          "potential": 80,
+          "altura_cm": 182,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/190/149/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Guruzeta -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 188,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/231/184/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Yuri Berchiche -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 181,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/183/512/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Beñat Prados -": {
+          "overall": 78,
+          "potential": 84,
+          "altura_cm": 180,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/263/617/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Aitor Paredes -": {
+          "overall": 77,
+          "potential": 81,
+          "altura_cm": 186,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/259/524/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Gorosabel -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 174,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/241/049/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Agirrezabala -": {
+          "overall": 76,
+          "potential": 83,
+          "altura_cm": 187,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/263/880/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Unai Núñez -": {
+          "overall": 76,
+          "potential": 77,
+          "altura_cm": 186,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/240/900/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Lekue -": {
+          "overall": 76,
+          "potential": 76,
+          "altura_cm": 180,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/225/523/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Jauregizar -": {
+          "overall": 75,
+          "potential": 85,
+          "altura_cm": 177,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/279/604/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Vesga -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 191,
+          "peso_kg": 86,
+          "foto": "https://cdn.sofifa.net/players/146/947/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Álvaro Djaló -": {
+          "overall": 74,
+          "potential": 77,
+          "altura_cm": 175,
+          "peso_kg": 65,
+          "foto": "https://cdn.sofifa.net/players/271/302/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Maroan Sannadi -": {
+          "overall": 71,
+          "potential": 78,
+          "altura_cm": 192,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/076/945/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Unai Gómez -": {
+          "overall": 71,
+          "potential": 80,
+          "altura_cm": 183,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/277/708/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Adama Boiro Boiro -": {
+          "overall": 69,
+          "potential": 79,
+          "altura_cm": 183,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/070/344/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Olabarrieta -": {
+          "overall": 64,
+          "potential": 79,
+          "altura_cm": 182,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/279/603/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Endika Buján -": {
+          "overall": 62,
+          "potential": 74,
+          "altura_cm": 170,
+          "peso_kg": 63,
+          "foto": "https://cdn.sofifa.net/players/077/154/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Peio Canales -": {
+          "overall": 61,
+          "potential": 78,
+          "altura_cm": 175,
+          "peso_kg": 64,
+          "foto": "https://cdn.sofifa.net/players/075/263/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Oier Gastesi -": {
+          "overall": 53,
+          "potential": 65,
+          "altura_cm": 190,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/074/467/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        }
+      }
+    },
+    "Atlético Madrid": {
+      "medias": {
+        "ataque": 84.0,
+        "meio": 74.7,
+        "defesa": 77.7,
+        "goleiro": 78.3
+      },
+      "jogadores": {
+        "Jan Oblak -": {
+          "overall": 88,
+          "potential": 88,
+          "altura_cm": 188,
+          "peso_kg": 87,
+          "foto": "https://cdn.sofifa.net/players/200/389/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Antoine Griezmann -": {
+          "overall": 87,
+          "potential": 87,
+          "altura_cm": 176,
+          "peso_kg": 67,
+          "foto": "https://cdn.sofifa.net/players/194/765/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Julián Álvarez -": {
+          "overall": 86,
+          "potential": 89,
+          "altura_cm": 170,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/246/191/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Rodrigo Javier de Paul -": {
+          "overall": 84,
+          "potential": 84,
+          "altura_cm": 180,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/212/616/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Robin Le Normand -": {
+          "overall": 83,
+          "potential": 85,
+          "altura_cm": 187,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/233/486/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Marcos Llorente -": {
+          "overall": 83,
+          "potential": 83,
+          "altura_cm": 184,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/226/161/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "José María Giménez de Vargas -": {
+          "overall": 83,
+          "potential": 83,
+          "altura_cm": 185,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/216/460/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Alexander Sørloth -": {
+          "overall": 82,
+          "potential": 82,
+          "altura_cm": 195,
+          "peso_kg": 94,
+          "foto": "https://cdn.sofifa.net/players/216/549/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Koke -": {
+          "overall": 82,
+          "potential": 82,
+          "altura_cm": 176,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/193/747/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Conor Gallagher -": {
+          "overall": 81,
+          "potential": 86,
+          "altura_cm": 182,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/238/216/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Nahuel Molina Lucero -": {
+          "overall": 81,
+          "potential": 82,
+          "altura_cm": 175,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/233/084/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Ángel Martín Correa Martínez -": {
+          "overall": 81,
+          "potential": 81,
+          "altura_cm": 171,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/214/997/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Reinildo -": {
+          "overall": 80,
+          "potential": 80,
+          "altura_cm": 180,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/236/045/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Javi Galán -": {
+          "overall": 80,
+          "potential": 80,
+          "altura_cm": 172,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/231/591/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Pablo Barrios -": {
+          "overall": 79,
+          "potential": 85,
+          "altura_cm": 181,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/272/449/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Samuel Lino -": {
+          "overall": 79,
+          "potential": 82,
+          "altura_cm": 170,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/251/445/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Juan Agustín Musso -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 191,
+          "peso_kg": 93,
+          "foto": "https://cdn.sofifa.net/players/214/979/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Azpilicueta -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 178,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/184/432/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Axel Laurent Angel Lambert Witsel -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 186,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/177/413/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Giuliano Simeone Baldini -": {
+          "overall": 78,
+          "potential": 84,
+          "altura_cm": 173,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/253/396/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Riquelme -": {
+          "overall": 78,
+          "potential": 81,
+          "altura_cm": 174,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/252/324/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Clément Nicolas Laurent Lenglet -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 186,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/220/440/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Thomas Lemar -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 171,
+          "peso_kg": 63,
+          "foto": "https://cdn.sofifa.net/players/213/565/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Ilias Kostis -": {
+          "overall": 68,
+          "potential": 81,
+          "altura_cm": 188,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/274/208/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Antonio Gomis -": {
+          "overall": 68,
+          "potential": 80,
+          "altura_cm": 191,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/271/193/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Javi Serrano -": {
+          "overall": 64,
+          "potential": 75,
+          "altura_cm": 178,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/263/943/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Gerónimo Spina -": {
+          "overall": 61,
+          "potential": 75,
+          "altura_cm": 187,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/075/500/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Adrián Niño -": {
+          "overall": 60,
+          "potential": 72,
+          "altura_cm": 184,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/278/608/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Aitor Gismera -": {
+          "overall": 59,
+          "potential": 73,
+          "altura_cm": 182,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/278/601/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        }
+      }
+    },
+    "CA Osasuna": {
+      "medias": {
+        "ataque": 72.7,
+        "meio": 73.3,
+        "defesa": 75.2,
+        "goleiro": 69.8
+      },
+      "jogadores": {
+        "Ante Budimir -": {
+          "overall": 81,
+          "potential": 81,
+          "altura_cm": 190,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/188/335/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Catena -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 194,
+          "peso_kg": 82,
+          "foto": "https://cdn.sofifa.net/players/243/976/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Sergio Herrera -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 192,
+          "peso_kg": 82,
+          "foto": "https://cdn.sofifa.net/players/224/003/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Flavien Enzo Thiedort Boyomo -": {
+          "overall": 78,
+          "potential": 85,
+          "altura_cm": 181,
+          "peso_kg": 86,
+          "foto": "https://cdn.sofifa.net/players/259/066/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Moncayola -": {
+          "overall": 78,
+          "potential": 79,
+          "altura_cm": 182,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/247/495/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Rubén García -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 172,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/211/022/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Moi Gómez -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 176,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/206/590/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Aimar Oroz -": {
+          "overall": 77,
+          "potential": 83,
+          "altura_cm": 177,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/258/937/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Lucas Torró -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 190,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/208/137/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Aitor -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 182,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/193/314/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Bryan Zaragoza -": {
+          "overall": 76,
+          "potential": 85,
+          "altura_cm": 164,
+          "peso_kg": 60,
+          "foto": "https://cdn.sofifa.net/players/271/916/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Areso -": {
+          "overall": 76,
+          "potential": 80,
+          "altura_cm": 182,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/239/614/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Abel Bretones -": {
+          "overall": 75,
+          "potential": 80,
+          "altura_cm": 188,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/271/145/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Rubén Peña -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 170,
+          "peso_kg": 65,
+          "foto": "https://cdn.sofifa.net/players/211/241/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Juan Cruz -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 182,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/206/219/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Kike Barja -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 179,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/225/200/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Raúl García -": {
+          "overall": 73,
+          "potential": 80,
+          "altura_cm": 192,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/253/416/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Unai García -": {
+          "overall": 72,
+          "potential": 72,
+          "altura_cm": 186,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/215/569/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Herrando -": {
+          "overall": 72,
+          "potential": 79,
+          "altura_cm": 192,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/272/433/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Pablo Ibáñez -": {
+          "overall": 71,
+          "potential": 74,
+          "altura_cm": 179,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/264/160/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "José Arnáiz -": {
+          "overall": 70,
+          "potential": 70,
+          "altura_cm": 173,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/231/530/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Iker Muñoz -": {
+          "overall": 68,
+          "potential": 79,
+          "altura_cm": 180,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/274/355/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Nzubechi Sixtus Ogbuehi Ogbuehi -": {
+          "overall": 64,
+          "potential": 73,
+          "altura_cm": 192,
+          "peso_kg": 84,
+          "foto": "https://cdn.sofifa.net/players/073/507/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Pablo Valencia -": {
+          "overall": 63,
+          "potential": 71,
+          "altura_cm": 188,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/264/161/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Dimitrios Stamatakis -": {
+          "overall": 60,
+          "potential": 72,
+          "altura_cm": 191,
+          "peso_kg": 82,
+          "foto": "https://cdn.sofifa.net/players/276/087/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Arguibide -": {
+          "overall": 59,
+          "potential": 76,
+          "altura_cm": 178,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/071/277/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        }
+      }
+    },
+    "CD Leganés": {
+      "medias": {
+        "ataque": 69.0,
+        "meio": 73.3,
+        "defesa": 70.2,
+        "goleiro": 70.3
+      },
+      "jogadores": {
+        "Marko Dmitrović -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 194,
+          "peso_kg": 91,
+          "foto": "https://cdn.sofifa.net/players/227/290/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Renato Fabrizio Tapia Cortijo -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 185,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/220/673/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Munir -": {
+          "overall": 76,
+          "potential": 76,
+          "altura_cm": 175,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/220/253/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Juan Soriano -": {
+          "overall": 75,
+          "potential": 77,
+          "altura_cm": 185,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/234/790/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Matija Nastasić -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 188,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/205/362/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Valentin André Henri Rosier -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 175,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/234/730/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Dani Raba -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 184,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/241/463/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Juan Cruz -": {
+          "overall": 74,
+          "potential": 77,
+          "altura_cm": 177,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/243/604/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Sergio -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 186,
+          "peso_kg": 67,
+          "foto": "https://cdn.sofifa.net/players/221/652/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Óscar -": {
+          "overall": 74,
+          "potential": 77,
+          "altura_cm": 174,
+          "peso_kg": 67,
+          "foto": "https://cdn.sofifa.net/players/239/335/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Jorge Sáenz -": {
+          "overall": 73,
+          "potential": 75,
+          "altura_cm": 192,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/225/106/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Darko Brašanac -": {
+          "overall": 73,
+          "potential": 73,
+          "altura_cm": 178,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/236/221/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Miguel -": {
+          "overall": 73,
+          "potential": 78,
+          "altura_cm": 182,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/240/589/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Borna Barišić -": {
+          "overall": 72,
+          "potential": 72,
+          "altura_cm": 186,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/241/673/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Javi Hernández -": {
+          "overall": 72,
+          "potential": 73,
+          "altura_cm": 182,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/244/523/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Yvan Neyou Noupa -": {
+          "overall": 72,
+          "potential": 72,
+          "altura_cm": 180,
+          "peso_kg": 63,
+          "foto": "https://cdn.sofifa.net/players/237/626/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Seydouba Cissé -": {
+          "overall": 72,
+          "potential": 77,
+          "altura_cm": 179,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/267/624/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Roberto López -": {
+          "overall": 72,
+          "potential": 77,
+          "altura_cm": 180,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/246/169/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Diego García -": {
+          "overall": 70,
+          "potential": 75,
+          "altura_cm": 185,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/264/229/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Franquesa -": {
+          "overall": 70,
+          "potential": 70,
+          "altura_cm": 174,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/252/146/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Duk -": {
+          "overall": 69,
+          "potential": 74,
+          "altura_cm": 178,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/270/611/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Altimira -": {
+          "overall": 69,
+          "potential": 76,
+          "altura_cm": 176,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/269/228/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Julián Antonio Chicco -": {
+          "overall": 68,
+          "potential": 69,
+          "altura_cm": 186,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/233/887/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Yan Diomande -": {
+          "overall": 64,
+          "potential": 79,
+          "altura_cm": 176,
+          "peso_kg": 62,
+          "foto": "https://cdn.sofifa.net/players/078/012/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Alvin -": {
+          "overall": 58,
+          "potential": 70,
+          "altura_cm": 181,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/278/545/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "João Urbáez -": {
+          "overall": 52,
+          "potential": 57,
+          "altura_cm": 179,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/074/546/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        }
+      }
+    },
+    "Deportivo Alavés": {
+      "medias": {
+        "ataque": 68.5,
+        "meio": 74.0,
+        "defesa": 69.6,
+        "goleiro": 66.2
+      },
+      "jogadores": {
+        "Carlos Vicente -": {
+          "overall": 77,
+          "potential": 78,
+          "altura_cm": 179,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/244/767/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Joan Jordán -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 184,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/224/309/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Ander Guevara -": {
+          "overall": 76,
+          "potential": 77,
+          "altura_cm": 180,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/240/458/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Sivera -": {
+          "overall": 76,
+          "potential": 79,
+          "altura_cm": 185,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/222/464/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Facundo Nahuel Tenaglia -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 181,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/240/953/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Toni Martínez -": {
+          "overall": 75,
+          "potential": 76,
+          "altura_cm": 187,
+          "peso_kg": 84,
+          "foto": "https://cdn.sofifa.net/players/234/826/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Kike García -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 186,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/192/678/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Manu Sánchez -": {
+          "overall": 75,
+          "potential": 82,
+          "altura_cm": 171,
+          "peso_kg": 66,
+          "foto": "https://cdn.sofifa.net/players/252/327/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Guridi -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 179,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/238/126/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Antonio Blanco -": {
+          "overall": 74,
+          "potential": 82,
+          "altura_cm": 176,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/261/987/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Aleñá -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 180,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/233/113/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Tomás José Conechny -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 176,
+          "peso_kg": 65,
+          "foto": "https://cdn.sofifa.net/players/236/507/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Villalibre -": {
+          "overall": 73,
+          "potential": 74,
+          "altura_cm": 184,
+          "peso_kg": 87,
+          "foto": "https://cdn.sofifa.net/players/193/794/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Abdelkabir Abqar -": {
+          "overall": 73,
+          "potential": 78,
+          "altura_cm": 188,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/245/628/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Aleksandar Sedlar -": {
+          "overall": 73,
+          "potential": 73,
+          "altura_cm": 180,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/234/933/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Moussa Diarra -": {
+          "overall": 71,
+          "potential": 77,
+          "altura_cm": 185,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/250/725/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Facundo Tomás Garcés -": {
+          "overall": 71,
+          "potential": 77,
+          "altura_cm": 188,
+          "peso_kg": 82,
+          "foto": "https://cdn.sofifa.net/players/241/031/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Carlos Nahuel Benavidez Protesoni -": {
+          "overall": 71,
+          "potential": 74,
+          "altura_cm": 185,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/244/948/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Álvaro Santiago Mouriño González -": {
+          "overall": 70,
+          "potential": 81,
+          "altura_cm": 183,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/276/493/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Carlos Martín -": {
+          "overall": 69,
+          "potential": 78,
+          "altura_cm": 180,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/265/396/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Hugo Novoa -": {
+          "overall": 69,
+          "potential": 79,
+          "altura_cm": 182,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/258/041/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Owono -": {
+          "overall": 66,
+          "potential": 74,
+          "altura_cm": 181,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/265/405/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Pau Cabanes -": {
+          "overall": 64,
+          "potential": 79,
+          "altura_cm": 179,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/073/990/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Adrián -": {
+          "overall": 63,
+          "potential": 71,
+          "altura_cm": 195,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/253/216/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Eneko Ortiz -": {
+          "overall": 63,
+          "potential": 73,
+          "altura_cm": 180,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/278/917/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Grégoire Swiderski -": {
+          "overall": 60,
+          "potential": 77,
+          "altura_cm": 187,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/277/814/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Julen Lartitegi -": {
+          "overall": 55,
+          "potential": 70,
+          "altura_cm": 184,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/074/547/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Adrián Pica -": {
+          "overall": 55,
+          "potential": 62,
+          "altura_cm": 190,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/074/548/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        }
+      }
+    },
+    "FC Barcelona": {
+      "medias": {
+        "ataque": 78.5,
+        "meio": 79.2,
+        "defesa": 76.7,
+        "goleiro": 77.8
+      },
+      "jogadores": {
+        "Robert Lewandowski -": {
+          "overall": 89,
+          "potential": 89,
+          "altura_cm": 185,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/188/545/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Raphinha -": {
+          "overall": 88,
+          "potential": 88,
+          "altura_cm": 176,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/233/419/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Marc-André ter Stegen -": {
+          "overall": 88,
+          "potential": 88,
+          "altura_cm": 187,
+          "peso_kg": 85,
+          "foto": "https://cdn.sofifa.net/players/192/448/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Pedri -": {
+          "overall": 87,
+          "potential": 90,
+          "altura_cm": 174,
+          "peso_kg": 60,
+          "foto": "https://cdn.sofifa.net/players/251/854/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Lamine Yamal -": {
+          "overall": 86,
+          "potential": 95,
+          "altura_cm": 180,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/277/643/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Jules Olivier Koundé -": {
+          "overall": 86,
+          "potential": 89,
+          "altura_cm": 180,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/241/486/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Frenkie de Jong -": {
+          "overall": 86,
+          "potential": 86,
+          "altura_cm": 181,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/228/702/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Ronald Federico Araújo da Silva -": {
+          "overall": 85,
+          "potential": 90,
+          "altura_cm": 188,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/253/163/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Dani Olmo -": {
+          "overall": 85,
+          "potential": 86,
+          "altura_cm": 179,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/244/260/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Wojciech Tomasz Szczęsny -": {
+          "overall": 85,
+          "potential": 85,
+          "altura_cm": 196,
+          "peso_kg": 90,
+          "foto": "https://cdn.sofifa.net/players/186/153/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Iñigo Martínez -": {
+          "overall": 84,
+          "potential": 84,
+          "altura_cm": 182,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/204/525/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Gavi -": {
+          "overall": 83,
+          "potential": 89,
+          "altura_cm": 173,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/264/240/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Balde -": {
+          "overall": 83,
+          "potential": 87,
+          "altura_cm": 175,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/263/578/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Andreas Bødtker Christensen -": {
+          "overall": 82,
+          "potential": 83,
+          "altura_cm": 187,
+          "peso_kg": 82,
+          "foto": "https://cdn.sofifa.net/players/213/661/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Pau Cubarsí -": {
+          "overall": 81,
+          "potential": 89,
+          "altura_cm": 182,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/278/046/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Ferran Torres -": {
+          "overall": 81,
+          "potential": 84,
+          "altura_cm": 184,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/241/461/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Fermín -": {
+          "overall": 78,
+          "potential": 86,
+          "altura_cm": 174,
+          "peso_kg": 64,
+          "foto": "https://cdn.sofifa.net/players/277/179/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Eric García -": {
+          "overall": 78,
+          "potential": 83,
+          "altura_cm": 182,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/245/037/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Ansu Fati -": {
+          "overall": 76,
+          "potential": 83,
+          "altura_cm": 178,
+          "peso_kg": 66,
+          "foto": "https://cdn.sofifa.net/players/253/004/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Iñaki Peña -": {
+          "overall": 76,
+          "potential": 81,
+          "altura_cm": 184,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/246/139/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Marc Casadó -": {
+          "overall": 75,
+          "potential": 86,
+          "altura_cm": 172,
+          "peso_kg": 66,
+          "foto": "https://cdn.sofifa.net/players/272/600/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Pablo Torre -": {
+          "overall": 74,
+          "potential": 84,
+          "altura_cm": 173,
+          "peso_kg": 63,
+          "foto": "https://cdn.sofifa.net/players/267/976/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Gerard Martín -": {
+          "overall": 72,
+          "potential": 80,
+          "altura_cm": 186,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/074/462/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Héctor Fort -": {
+          "overall": 68,
+          "potential": 82,
+          "altura_cm": 185,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/278/923/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Pau Víctor -": {
+          "overall": 68,
+          "potential": 77,
+          "altura_cm": 184,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/259/070/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Marc Bernal -": {
+          "overall": 66,
+          "potential": 84,
+          "altura_cm": 191,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/074/463/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Dani Rodríguez -": {
+          "overall": 63,
+          "potential": 84,
+          "altura_cm": 170,
+          "peso_kg": 62,
+          "foto": "https://cdn.sofifa.net/players/078/364/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Sergi Domínguez -": {
+          "overall": 63,
+          "potential": 80,
+          "altura_cm": 188,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/074/544/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Astralaga -": {
+          "overall": 62,
+          "potential": 74,
+          "altura_cm": 190,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/277/642/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Andrés Cuenca -": {
+          "overall": 62,
+          "potential": 82,
+          "altura_cm": 181,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/074/746/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        }
+      }
+    },
+    "Getafe CF": {
+      "medias": {
+        "ataque": 71.2,
+        "meio": 69.9,
+        "defesa": 71.0,
+        "goleiro": 68.3
+      },
+      "jogadores": {
+        "David Soria -": {
+          "overall": 81,
+          "potential": 81,
+          "altura_cm": 192,
+          "peso_kg": 85,
+          "foto": "https://cdn.sofifa.net/players/223/952/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Luis Milla -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 175,
+          "peso_kg": 67,
+          "foto": "https://cdn.sofifa.net/players/242/201/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Omar Federico Alderete Fernández -": {
+          "overall": 78,
+          "potential": 79,
+          "altura_cm": 188,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/240/359/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Mauro Wilney Arambarri Rosa -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 175,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/232/665/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Borja Mayoral -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 182,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/228/635/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Diego Rico -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 183,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/220/414/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Dakonam Ortega Djené -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 178,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/217/940/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Terrats -": {
+          "overall": 76,
+          "potential": 81,
+          "altura_cm": 181,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/259/521/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Carles Pérez -": {
+          "overall": 76,
+          "potential": 76,
+          "altura_cm": 173,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/240/654/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Juan Iglesias -": {
+          "overall": 74,
+          "potential": 77,
+          "altura_cm": 187,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/260/178/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Domingos Duarte -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 190,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/234/835/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Juan Bernat -": {
+          "overall": 73,
+          "potential": 73,
+          "altura_cm": 170,
+          "peso_kg": 67,
+          "foto": "https://cdn.sofifa.net/players/205/069/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Christantus Ugonna Uche Uche -": {
+          "overall": 73,
+          "potential": 81,
+          "altura_cm": 190,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/073/374/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Allan-Roméo Nyom -": {
+          "overall": 72,
+          "potential": 72,
+          "altura_cm": 189,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/192/667/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Álex Sola -": {
+          "overall": 72,
+          "potential": 75,
+          "altura_cm": 178,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/247/458/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Berrocal -": {
+          "overall": 71,
+          "potential": 77,
+          "altura_cm": 184,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/240/859/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Peter -": {
+          "overall": 70,
+          "potential": 79,
+          "altura_cm": 180,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/266/136/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Jiří Letáček -": {
+          "overall": 69,
+          "potential": 74,
+          "altura_cm": 196,
+          "peso_kg": 98,
+          "foto": "https://cdn.sofifa.net/players/073/373/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Bertuğ Özgür Yıldırım -": {
+          "overall": 68,
+          "potential": 76,
+          "altura_cm": 186,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/267/905/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Álvaro -": {
+          "overall": 66,
+          "potential": 81,
+          "altura_cm": 193,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/272/445/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Yellu Santiago -": {
+          "overall": 66,
+          "potential": 78,
+          "altura_cm": 192,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/270/698/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Coba da Costa -": {
+          "overall": 63,
+          "potential": 73,
+          "altura_cm": 182,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/074/403/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Gorka -": {
+          "overall": 62,
+          "potential": 73,
+          "altura_cm": 184,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/278/389/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "David Argüelles -": {
+          "overall": 62,
+          "potential": 71,
+          "altura_cm": 175,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/259/528/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Abdoulaye Keita -": {
+          "overall": 61,
+          "potential": 73,
+          "altura_cm": 186,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/075/157/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Ismael Bekhoucha Lemlal -": {
+          "overall": 60,
+          "potential": 74,
+          "altura_cm": 176,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/073/375/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Alberto Risco -": {
+          "overall": 58,
+          "potential": 76,
+          "altura_cm": 178,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/071/977/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Diego Ferrer -": {
+          "overall": 55,
+          "potential": 74,
+          "altura_cm": 185,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/073/849/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        }
+      }
+    },
+    "Girona FC": {
+      "medias": {
+        "ataque": 74.5,
+        "meio": 71.6,
+        "defesa": 74.9,
+        "goleiro": 69.5
+      },
+      "jogadores": {
+        "Miguel Gutiérrez -": {
+          "overall": 81,
+          "potential": 85,
+          "altura_cm": 180,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/261/865/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Viktor Tsygankov -": {
+          "overall": 81,
+          "potential": 81,
+          "altura_cm": 178,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/244/369/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Yangel Clemente Herrera Ravelo -": {
+          "overall": 81,
+          "potential": 82,
+          "altura_cm": 184,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/234/060/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Paulo Dino Gazzaniga Farias -": {
+          "overall": 81,
+          "potential": 81,
+          "altura_cm": 196,
+          "peso_kg": 90,
+          "foto": "https://cdn.sofifa.net/players/205/186/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Arnau Martínez -": {
+          "overall": 79,
+          "potential": 84,
+          "altura_cm": 182,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/260/815/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Ladislav Krejčí -": {
+          "overall": 79,
+          "potential": 83,
+          "altura_cm": 191,
+          "peso_kg": 87,
+          "foto": "https://cdn.sofifa.net/players/252/064/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Bryan Gil -": {
+          "overall": 79,
+          "potential": 83,
+          "altura_cm": 175,
+          "peso_kg": 60,
+          "foto": "https://cdn.sofifa.net/players/246/785/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "David López -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 185,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/201/505/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Daley Blind -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 180,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/190/815/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Iván Martín -": {
+          "overall": 78,
+          "potential": 81,
+          "altura_cm": 178,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/246/928/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Arnaut Danjuma Adam Groeneveld -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 178,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/236/276/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Yaser Esneider Asprilla Martínez -": {
+          "overall": 77,
+          "potential": 84,
+          "altura_cm": 175,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/271/464/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Donny van de Beek -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 184,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/221/363/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Oriol Romeu -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 183,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/199/576/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Arthur -": {
+          "overall": 76,
+          "potential": 77,
+          "altura_cm": 171,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/230/658/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Francés -": {
+          "overall": 75,
+          "potential": 82,
+          "altura_cm": 181,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/254/310/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Abel Ruiz -": {
+          "overall": 75,
+          "potential": 78,
+          "altura_cm": 180,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/239/250/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Bojan Miovski -": {
+          "overall": 74,
+          "potential": 79,
+          "altura_cm": 189,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/269/953/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Juanpe -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 190,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/192/715/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Juan Carlos -": {
+          "overall": 73,
+          "potential": 73,
+          "altura_cm": 186,
+          "peso_kg": 85,
+          "foto": "https://cdn.sofifa.net/players/194/730/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Jhon Elmer Solís Romero -": {
+          "overall": 71,
+          "potential": 81,
+          "altura_cm": 189,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/267/894/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Antal Yaakobishvili -": {
+          "overall": 65,
+          "potential": 82,
+          "altura_cm": 193,
+          "peso_kg": 86,
+          "foto": "https://cdn.sofifa.net/players/279/874/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Gabriel Osei Misehouy -": {
+          "overall": 65,
+          "potential": 82,
+          "altura_cm": 173,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/278/216/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Ricard Artero -": {
+          "overall": 64,
+          "potential": 75,
+          "altura_cm": 181,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/264/735/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Ferrán Ruiz -": {
+          "overall": 63,
+          "potential": 74,
+          "altura_cm": 172,
+          "peso_kg": 65,
+          "foto": "https://cdn.sofifa.net/players/075/562/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Minsu -": {
+          "overall": 63,
+          "potential": 81,
+          "altura_cm": 177,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/075/437/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Lucas García -": {
+          "overall": 62,
+          "potential": 75,
+          "altura_cm": 190,
+          "peso_kg": 88,
+          "foto": "https://cdn.sofifa.net/players/075/436/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Vladyslav Krapyvtsov -": {
+          "overall": 62,
+          "potential": 77,
+          "altura_cm": 188,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/076/012/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Papa Dame Ba -": {
+          "overall": 62,
+          "potential": 76,
+          "altura_cm": 180,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/075/502/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Raúl Martínez -": {
+          "overall": 59,
+          "potential": 79,
+          "altura_cm": 183,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/075/069/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Enric García -": {
+          "overall": 58,
+          "potential": 78,
+          "altura_cm": 175,
+          "peso_kg": 66,
+          "foto": "https://cdn.sofifa.net/players/075/438/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        }
+      }
+    },
+    "RC Celta": {
+      "medias": {
+        "ataque": 74.4,
+        "meio": 72.9,
+        "defesa": 73.0,
+        "goleiro": 71.3
+      },
+      "jogadores": {
+        "Iago Aspas -": {
+          "overall": 84,
+          "potential": 84,
+          "altura_cm": 176,
+          "peso_kg": 67,
+          "foto": "https://cdn.sofifa.net/players/192/629/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Mingueza -": {
+          "overall": 79,
+          "potential": 82,
+          "altura_cm": 184,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/259/694/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Fran Beltrán -": {
+          "overall": 78,
+          "potential": 81,
+          "altura_cm": 165,
+          "peso_kg": 64,
+          "foto": "https://cdn.sofifa.net/players/235/997/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Marcos Alonso -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 188,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/192/638/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Borja Iglesias -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 187,
+          "peso_kg": 86,
+          "foto": "https://cdn.sofifa.net/players/224/179/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Carl Anders Theodor Starfelt -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 187,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/220/821/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Guaita -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 190,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/189/690/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Moriba Kourouma Kourouma -": {
+          "overall": 76,
+          "potential": 83,
+          "altura_cm": 185,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/259/233/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Hugo Álvarez -": {
+          "overall": 75,
+          "potential": 84,
+          "altura_cm": 176,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/266/331/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Williot Theo Swedberg -": {
+          "overall": 74,
+          "potential": 83,
+          "altura_cm": 187,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/263/227/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Franco Emanuel Cervi -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 166,
+          "peso_kg": 62,
+          "foto": "https://cdn.sofifa.net/players/223/061/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Alfon -": {
+          "overall": 74,
+          "potential": 75,
+          "altura_cm": 172,
+          "peso_kg": 63,
+          "foto": "https://cdn.sofifa.net/players/243/034/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Iván Villar -": {
+          "overall": 74,
+          "potential": 78,
+          "altura_cm": 186,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/222/572/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Carreira -": {
+          "overall": 74,
+          "potential": 78,
+          "altura_cm": 170,
+          "peso_kg": 65,
+          "foto": "https://cdn.sofifa.net/players/252/866/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Mihailo Ristić -": {
+          "overall": 73,
+          "potential": 73,
+          "altura_cm": 180,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/240/223/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Jaílson -": {
+          "overall": 73,
+          "potential": 74,
+          "altura_cm": 187,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/234/660/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Iker Losada -": {
+          "overall": 73,
+          "potential": 82,
+          "altura_cm": 175,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/252/865/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Damián -": {
+          "overall": 72,
+          "potential": 80,
+          "altura_cm": 180,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/279/112/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Carlos Domínguez -": {
+          "overall": 72,
+          "potential": 79,
+          "altura_cm": 187,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/262/140/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Manquillo -": {
+          "overall": 71,
+          "potential": 71,
+          "altura_cm": 178,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/210/972/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Hugo Sotelo -": {
+          "overall": 71,
+          "potential": 80,
+          "altura_cm": 180,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/264/095/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Pablo Durán -": {
+          "overall": 70,
+          "potential": 77,
+          "altura_cm": 176,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/272/453/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Javi Rodríguez -": {
+          "overall": 70,
+          "potential": 81,
+          "altura_cm": 178,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/279/027/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Fer López -": {
+          "overall": 67,
+          "potential": 82,
+          "altura_cm": 188,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/075/628/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Yoel Lago -": {
+          "overall": 64,
+          "potential": 77,
+          "altura_cm": 185,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/072/425/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Marc Vidal -": {
+          "overall": 63,
+          "potential": 67,
+          "altura_cm": 185,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/264/167/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Jones El-Abdellaoui -": {
+          "overall": 62,
+          "potential": 81,
+          "altura_cm": 184,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/270/860/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        }
+      }
+    },
+    "RCD Espanyol": {
+      "medias": {
+        "ataque": 71.5,
+        "meio": 70.5,
+        "defesa": 68.8,
+        "goleiro": 69.8
+      },
+      "jogadores": {
+        "Joan García -": {
+          "overall": 80,
+          "potential": 86,
+          "altura_cm": 191,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/259/532/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Puado -": {
+          "overall": 77,
+          "potential": 78,
+          "altura_cm": 177,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/244/622/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Omar El Hilali -": {
+          "overall": 76,
+          "potential": 82,
+          "altura_cm": 183,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/261/654/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Marash Kumbulla -": {
+          "overall": 76,
+          "potential": 80,
+          "altura_cm": 191,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/245/426/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Pol Lozano -": {
+          "overall": 75,
+          "potential": 80,
+          "altura_cm": 177,
+          "peso_kg": 62,
+          "foto": "https://cdn.sofifa.net/players/244/407/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Edu Expósito -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 178,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/229/862/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Jofre -": {
+          "overall": 74,
+          "potential": 80,
+          "altura_cm": 175,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/258/949/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Carlos Romero -": {
+          "overall": 74,
+          "potential": 80,
+          "altura_cm": 180,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/270/728/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Álvaro Tejero -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 174,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/231/856/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Alex Král -": {
+          "overall": 74,
+          "potential": 75,
+          "altura_cm": 187,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/247/028/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Pacheco -": {
+          "overall": 73,
+          "potential": 73,
+          "altura_cm": 186,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/209/960/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Calero -": {
+          "overall": 73,
+          "potential": 74,
+          "altura_cm": 183,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/240/289/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Brian Oliván -": {
+          "overall": 73,
+          "potential": 73,
+          "altura_cm": 177,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/228/326/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Roberto -": {
+          "overall": 73,
+          "potential": 80,
+          "altura_cm": 186,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/263/676/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "José Gragera -": {
+          "overall": 72,
+          "potential": 77,
+          "altura_cm": 186,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/250/997/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Alejo Véliz -": {
+          "overall": 72,
+          "potential": 81,
+          "altura_cm": 186,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/269/176/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Pere Milla -": {
+          "overall": 72,
+          "potential": 72,
+          "altura_cm": 184,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/225/926/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Sergi Gómez -": {
+          "overall": 72,
+          "potential": 72,
+          "altura_cm": 185,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/199/577/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Aguado -": {
+          "overall": 72,
+          "potential": 72,
+          "altura_cm": 174,
+          "peso_kg": 66,
+          "foto": "https://cdn.sofifa.net/players/242/336/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Walid Cheddira -": {
+          "overall": 72,
+          "potential": 73,
+          "altura_cm": 187,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/268/511/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Antoniu Roca -": {
+          "overall": 71,
+          "potential": 80,
+          "altura_cm": 180,
+          "peso_kg": 65,
+          "foto": "https://cdn.sofifa.net/players/263/133/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Urko González -": {
+          "overall": 70,
+          "potential": 78,
+          "altura_cm": 189,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/260/546/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Alex Almansa -": {
+          "overall": 65,
+          "potential": 77,
+          "altura_cm": 186,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/075/544/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Fortuño -": {
+          "overall": 65,
+          "potential": 75,
+          "altura_cm": 183,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/258/948/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Pablo Ramón -": {
+          "overall": 65,
+          "potential": 76,
+          "altura_cm": 186,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/246/455/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Justin Smith -": {
+          "overall": 64,
+          "potential": 75,
+          "altura_cm": 190,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/264/506/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Bauza -": {
+          "overall": 63,
+          "potential": 78,
+          "altura_cm": 183,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/071/972/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "José Ángel -": {
+          "overall": 63,
+          "potential": 77,
+          "altura_cm": 175,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/077/132/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Marc Jurado -": {
+          "overall": 63,
+          "potential": 77,
+          "altura_cm": 178,
+          "peso_kg": 65,
+          "foto": "https://cdn.sofifa.net/players/268/419/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Roger Hinojo -": {
+          "overall": 63,
+          "potential": 77,
+          "altura_cm": 180,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/077/703/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Omar Sadik -": {
+          "overall": 63,
+          "potential": 77,
+          "altura_cm": 185,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/278/996/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Ángel Gómez -": {
+          "overall": 62,
+          "potential": 73,
+          "altura_cm": 193,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/071/155/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Català -": {
+          "overall": 61,
+          "potential": 77,
+          "altura_cm": 188,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/279/120/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Llorenç Serred -": {
+          "overall": 61,
+          "potential": 77,
+          "altura_cm": 186,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/071/352/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        }
+      }
+    },
+    "RCD Mallorca": {
+      "medias": {
+        "ataque": 71.2,
+        "meio": 73.5,
+        "defesa": 75.0,
+        "goleiro": 72.7
+      },
+      "jogadores": {
+        "Sergi Darder -": {
+          "overall": 81,
+          "potential": 81,
+          "altura_cm": 180,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/202/648/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Raíllo -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 187,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/228/805/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Vedat Muriqi -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 194,
+          "peso_kg": 92,
+          "foto": "https://cdn.sofifa.net/players/223/710/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Pablo Maffeo -": {
+          "overall": 79,
+          "potential": 80,
+          "altura_cm": 172,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/221/342/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Dominik Greif -": {
+          "overall": 77,
+          "potential": 80,
+          "altura_cm": 197,
+          "peso_kg": 82,
+          "foto": "https://cdn.sofifa.net/players/263/139/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Samú Costa -": {
+          "overall": 77,
+          "potential": 85,
+          "altura_cm": 183,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/255/566/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Martin Valjent -": {
+          "overall": 77,
+          "potential": 78,
+          "altura_cm": 187,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/219/585/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Johan Andrés Mojica Palacio -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 185,
+          "peso_kg": 66,
+          "foto": "https://cdn.sofifa.net/players/214/026/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Valery -": {
+          "overall": 76,
+          "potential": 79,
+          "altura_cm": 182,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/246/351/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Cyle Christopher Larin -": {
+          "overall": 76,
+          "potential": 76,
+          "altura_cm": 188,
+          "peso_kg": 90,
+          "foto": "https://cdn.sofifa.net/players/226/777/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Takuma Asano -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 173,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/232/610/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Manu Morlanes -": {
+          "overall": 75,
+          "potential": 78,
+          "altura_cm": 178,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/241/856/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Copete -": {
+          "overall": 75,
+          "potential": 82,
+          "altura_cm": 192,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/263/396/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Omar Mascarell -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 181,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/208/620/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Toni Lato -": {
+          "overall": 74,
+          "potential": 75,
+          "altura_cm": 171,
+          "peso_kg": 64,
+          "foto": "https://cdn.sofifa.net/players/232/008/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Leo Román -": {
+          "overall": 74,
+          "potential": 82,
+          "altura_cm": 189,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/258/466/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Robert Navarro -": {
+          "overall": 74,
+          "potential": 82,
+          "altura_cm": 178,
+          "peso_kg": 65,
+          "foto": "https://cdn.sofifa.net/players/253/130/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Abdón Prats -": {
+          "overall": 73,
+          "potential": 73,
+          "altura_cm": 181,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/202/716/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Antonio Sánchez -": {
+          "overall": 73,
+          "potential": 73,
+          "altura_cm": 179,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/252/909/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Chiquinho -": {
+          "overall": 72,
+          "potential": 75,
+          "altura_cm": 179,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/262/416/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Mateu Morey -": {
+          "overall": 71,
+          "potential": 76,
+          "altura_cm": 173,
+          "peso_kg": 67,
+          "foto": "https://cdn.sofifa.net/players/248/820/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "David López -": {
+          "overall": 68,
+          "potential": 78,
+          "altura_cm": 195,
+          "peso_kg": 87,
+          "foto": "https://cdn.sofifa.net/players/278/392/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Iván Cuéllar -": {
+          "overall": 67,
+          "potential": 67,
+          "altura_cm": 187,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/146/952/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Marc Domènech -": {
+          "overall": 57,
+          "potential": 77,
+          "altura_cm": 182,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/074/583/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Jan Salas -": {
+          "overall": 57,
+          "potential": 75,
+          "altura_cm": 182,
+          "peso_kg": 67,
+          "foto": "https://cdn.sofifa.net/players/074/716/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        }
+      }
+    },
+    "Rayo Vallecano": {
+      "medias": {
+        "ataque": 71.0,
+        "meio": 76.6,
+        "defesa": 72.1,
+        "goleiro": 76.0
+      },
+      "jogadores": {
+        "Isi -": {
+          "overall": 81,
+          "potential": 81,
+          "altura_cm": 169,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/232/498/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Álvaro García -": {
+          "overall": 80,
+          "potential": 80,
+          "altura_cm": 167,
+          "peso_kg": 61,
+          "foto": "https://cdn.sofifa.net/players/216/447/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "De Frutos -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 173,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/243/559/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Óscar Valentín -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 177,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/243/558/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Florian Grégoire Claude Lejeune -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 189,
+          "peso_kg": 89,
+          "foto": "https://cdn.sofifa.net/players/197/948/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Pathé Ismaël Ciss -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 186,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/250/858/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Andrei Florin Rațiu -": {
+          "overall": 77,
+          "potential": 80,
+          "altura_cm": 183,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/248/165/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Luis Alfonso Espino García -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 172,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/247/131/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Augusto Martín Batalla Barga -": {
+          "overall": 77,
+          "potential": 78,
+          "altura_cm": 185,
+          "peso_kg": 87,
+          "foto": "https://cdn.sofifa.net/players/227/186/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Óscar Guido Trejo -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 180,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/173/030/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Khalid Abdul Mumin Suleman -": {
+          "overall": 76,
+          "potential": 79,
+          "altura_cm": 188,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/235/662/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Unai López -": {
+          "overall": 76,
+          "potential": 76,
+          "altura_cm": 170,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/222/390/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Embarba -": {
+          "overall": 76,
+          "potential": 76,
+          "altura_cm": 173,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/219/953/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Dani Cárdenas -": {
+          "overall": 75,
+          "potential": 78,
+          "altura_cm": 186,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/236/033/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Aridane -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 186,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/189/472/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Raúl De Tomás -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 180,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/210/315/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Pep Chavarría -": {
+          "overall": 74,
+          "potential": 75,
+          "altura_cm": 174,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/258/371/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Pedro Díaz -": {
+          "overall": 74,
+          "potential": 75,
+          "altura_cm": 180,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/236/492/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Sergio Camello -": {
+          "overall": 74,
+          "potential": 81,
+          "altura_cm": 177,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/248/805/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Randy Nteka -": {
+          "overall": 73,
+          "potential": 74,
+          "altura_cm": 189,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/251/756/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Gumbau -": {
+          "overall": 73,
+          "potential": 73,
+          "altura_cm": 187,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/214/944/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Joni Montiel -": {
+          "overall": 73,
+          "potential": 76,
+          "altura_cm": 174,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/231/873/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Sergi Guardiola -": {
+          "overall": 72,
+          "potential": 72,
+          "altura_cm": 184,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/229/624/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Pelayo Fernández -": {
+          "overall": 62,
+          "potential": 73,
+          "altura_cm": 190,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/074/178/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Etienne Eto'o -": {
+          "overall": 61,
+          "potential": 71,
+          "altura_cm": 189,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/261/339/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Marco de las Sías -": {
+          "overall": 58,
+          "potential": 73,
+          "altura_cm": 180,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/074/551/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        }
+      }
+    },
+    "Real Betis Balompié": {
+      "medias": {
+        "ataque": 78.0,
+        "meio": 73.7,
+        "defesa": 72.2,
+        "goleiro": 65.0
+      },
+      "jogadores": {
+        "Isco -": {
+          "overall": 83,
+          "potential": 83,
+          "altura_cm": 176,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/197/781/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Giovani Lo Celso -": {
+          "overall": 81,
+          "potential": 81,
+          "altura_cm": 177,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/226/226/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "William Carvalho -": {
+          "overall": 80,
+          "potential": 80,
+          "altura_cm": 187,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/207/566/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Johnny Cardoso -": {
+          "overall": 79,
+          "potential": 85,
+          "altura_cm": 185,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/259/516/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Cucho -": {
+          "overall": 79,
+          "potential": 82,
+          "altura_cm": 176,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/237/034/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Diego Llorente -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 186,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/212/602/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Antony -": {
+          "overall": 78,
+          "potential": 81,
+          "altura_cm": 172,
+          "peso_kg": 63,
+          "foto": "https://cdn.sofifa.net/players/255/475/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Marc Roca -": {
+          "overall": 78,
+          "potential": 79,
+          "altura_cm": 184,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/235/945/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Marc Bartra -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 184,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/198/141/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Abdessamad Ezzalzouli -": {
+          "overall": 77,
+          "potential": 82,
+          "altura_cm": 177,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/264/432/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Luis Ezequiel Ávila -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 172,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/228/520/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Pablo Fornals -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 178,
+          "peso_kg": 67,
+          "foto": "https://cdn.sofifa.net/players/226/456/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Youssouf Sabaly -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 174,
+          "peso_kg": 67,
+          "foto": "https://cdn.sofifa.net/players/215/699/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Natan -": {
+          "overall": 76,
+          "potential": 83,
+          "altura_cm": 188,
+          "peso_kg": 85,
+          "foto": "https://cdn.sofifa.net/players/277/537/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Altimira -": {
+          "overall": 76,
+          "potential": 82,
+          "altura_cm": 188,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/276/471/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Aitor Ruibal -": {
+          "overall": 76,
+          "potential": 76,
+          "altura_cm": 176,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/241/867/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Romain Paul Jean-Michel Perraud -": {
+          "overall": 76,
+          "potential": 77,
+          "altura_cm": 173,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/231/318/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Héctor Bellerín -": {
+          "overall": 76,
+          "potential": 76,
+          "altura_cm": 178,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/203/747/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Ricardo Iván Rodríguez Araya -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 180,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/193/352/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Adrián -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 190,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/194/911/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Fran Vieites -": {
+          "overall": 72,
+          "potential": 76,
+          "altura_cm": 196,
+          "peso_kg": 88,
+          "foto": "https://cdn.sofifa.net/players/243/587/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Jesús Rodríguez -": {
+          "overall": 68,
+          "potential": 86,
+          "altura_cm": 185,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/075/055/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Ángel Ortiz -": {
+          "overall": 68,
+          "potential": 81,
+          "altura_cm": 167,
+          "peso_kg": 60,
+          "foto": "https://cdn.sofifa.net/players/076/740/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Arribas -": {
+          "overall": 66,
+          "potential": 77,
+          "altura_cm": 185,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/276/956/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Lucas Alcázar -": {
+          "overall": 65,
+          "potential": 74,
+          "altura_cm": 182,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/074/584/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Pablo García -": {
+          "overall": 65,
+          "potential": 83,
+          "altura_cm": 168,
+          "peso_kg": 67,
+          "foto": "https://cdn.sofifa.net/players/076/739/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Mateo Flores -": {
+          "overall": 65,
+          "potential": 78,
+          "altura_cm": 178,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/075/211/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Nobel Mendy -": {
+          "overall": 64,
+          "potential": 77,
+          "altura_cm": 187,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/276/633/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Dani Pérez -": {
+          "overall": 63,
+          "potential": 81,
+          "altura_cm": 173,
+          "peso_kg": 64,
+          "foto": "https://cdn.sofifa.net/players/272/487/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Pleguezuelo -": {
+          "overall": 63,
+          "potential": 74,
+          "altura_cm": 178,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/070/027/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Carlos Guirao -": {
+          "overall": 59,
+          "potential": 70,
+          "altura_cm": 175,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/074/545/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Germán García -": {
+          "overall": 57,
+          "potential": 71,
+          "altura_cm": 185,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/076/420/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Manu González -": {
+          "overall": 57,
+          "potential": 77,
+          "altura_cm": 189,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/074/717/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        }
+      }
+    },
+    "Real Madrid": {
+      "medias": {
+        "ataque": 76.5,
+        "meio": 80.9,
+        "defesa": 77.3,
+        "goleiro": 77.7
+      },
+      "jogadores": {
+        "Jude Victor William Bellingham -": {
+          "overall": 90,
+          "potential": 94,
+          "altura_cm": 186,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/252/371/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Vini Jr. -": {
+          "overall": 90,
+          "potential": 94,
+          "altura_cm": 176,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/238/794/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Kylian Mbappé Lottin -": {
+          "overall": 90,
+          "potential": 93,
+          "altura_cm": 182,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/231/747/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Thibaut Nicolas Marc Courtois -": {
+          "overall": 89,
+          "potential": 89,
+          "altura_cm": 200,
+          "peso_kg": 96,
+          "foto": "https://cdn.sofifa.net/players/192/119/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Federico Santiago Valverde Dipetta -": {
+          "overall": 88,
+          "potential": 91,
+          "altura_cm": 182,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/239/053/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Antonio Rüdiger -": {
+          "overall": 88,
+          "potential": 88,
+          "altura_cm": 190,
+          "peso_kg": 85,
+          "foto": "https://cdn.sofifa.net/players/205/452/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Rodrygo -": {
+          "overall": 86,
+          "potential": 91,
+          "altura_cm": 174,
+          "peso_kg": 64,
+          "foto": "https://cdn.sofifa.net/players/243/812/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Carvajal -": {
+          "overall": 86,
+          "potential": 86,
+          "altura_cm": 173,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/204/963/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Éder Militão -": {
+          "overall": 85,
+          "potential": 88,
+          "altura_cm": 186,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/240/130/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Luka Modrić -": {
+          "overall": 85,
+          "potential": 85,
+          "altura_cm": 172,
+          "peso_kg": 67,
+          "foto": "https://cdn.sofifa.net/players/177/003/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Aurélien Djani Tchouameni -": {
+          "overall": 84,
+          "potential": 87,
+          "altura_cm": 187,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/241/637/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "David Olatukunbo Alaba -": {
+          "overall": 84,
+          "potential": 84,
+          "altura_cm": 180,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/197/445/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Eduardo Celmi Camavinga -": {
+          "overall": 83,
+          "potential": 90,
+          "altura_cm": 185,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/248/243/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Brahim -": {
+          "overall": 82,
+          "potential": 86,
+          "altura_cm": 170,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/231/410/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Ferland Sinna Mendy -": {
+          "overall": 82,
+          "potential": 82,
+          "altura_cm": 180,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/228/618/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Andriy Lunin -": {
+          "overall": 81,
+          "potential": 86,
+          "altura_cm": 191,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/243/952/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Dani Ceballos -": {
+          "overall": 80,
+          "potential": 80,
+          "altura_cm": 179,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/222/509/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Arda Güler -": {
+          "overall": 79,
+          "potential": 88,
+          "altura_cm": 175,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/264/309/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Fran García -": {
+          "overall": 79,
+          "potential": 84,
+          "altura_cm": 169,
+          "peso_kg": 62,
+          "foto": "https://cdn.sofifa.net/players/246/606/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Lucas Vázquez -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 173,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/208/618/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Endrick -": {
+          "overall": 77,
+          "potential": 91,
+          "altura_cm": 173,
+          "peso_kg": 66,
+          "foto": "https://cdn.sofifa.net/players/272/505/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Asencio -": {
+          "overall": 72,
+          "potential": 84,
+          "altura_cm": 184,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/075/605/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Vallejo -": {
+          "overall": 72,
+          "potential": 73,
+          "altura_cm": 184,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/225/161/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Jacobo -": {
+          "overall": 65,
+          "potential": 79,
+          "altura_cm": 196,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/070/966/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Fran González -": {
+          "overall": 63,
+          "potential": 83,
+          "altura_cm": 199,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/278/394/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Víctor Muñoz -": {
+          "overall": 60,
+          "potential": 72,
+          "altura_cm": 173,
+          "peso_kg": 60,
+          "foto": "https://cdn.sofifa.net/players/076/042/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Lorenzo Aguado -": {
+          "overall": 58,
+          "potential": 67,
+          "altura_cm": 177,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/075/831/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Chema Andrés -": {
+          "overall": 57,
+          "potential": 72,
+          "altura_cm": 190,
+          "peso_kg": 82,
+          "foto": "https://cdn.sofifa.net/players/075/056/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Daniel Yáñez -": {
+          "overall": 56,
+          "potential": 72,
+          "altura_cm": 177,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/075/917/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        }
+      }
+    },
+    "Real Sociedad": {
+      "medias": {
+        "ataque": 77.0,
+        "meio": 73.2,
+        "defesa": 72.2,
+        "goleiro": 68.8
+      },
+      "jogadores": {
+        "Álex Remiro -": {
+          "overall": 84,
+          "potential": 85,
+          "altura_cm": 191,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/227/127/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Zubimendi -": {
+          "overall": 82,
+          "potential": 86,
+          "altura_cm": 180,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/248/148/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Takefusa Kubo -": {
+          "overall": 82,
+          "potential": 86,
+          "altura_cm": 173,
+          "peso_kg": 64,
+          "foto": "https://cdn.sofifa.net/players/237/681/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Oyarzabal -": {
+          "overall": 82,
+          "potential": 82,
+          "altura_cm": 181,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/230/142/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Nayef Aguerd -": {
+          "overall": 81,
+          "potential": 82,
+          "altura_cm": 190,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/244/749/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Brais Méndez -": {
+          "overall": 81,
+          "potential": 81,
+          "altura_cm": 187,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/235/944/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Hamari Traoré -": {
+          "overall": 80,
+          "potential": 80,
+          "altura_cm": 175,
+          "peso_kg": 64,
+          "foto": "https://cdn.sofifa.net/players/219/789/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Zubeldia -": {
+          "overall": 79,
+          "potential": 81,
+          "altura_cm": 181,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/233/738/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Sergio Gómez -": {
+          "overall": 78,
+          "potential": 82,
+          "altura_cm": 173,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/241/811/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Aritz Elustondo -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 180,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/226/221/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Barrenetxea -": {
+          "overall": 77,
+          "potential": 83,
+          "altura_cm": 175,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/246/672/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Luka Sučić -": {
+          "overall": 76,
+          "potential": 84,
+          "altura_cm": 185,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/258/775/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Sheraldo Rudi Becker -": {
+          "overall": 76,
+          "potential": 76,
+          "altura_cm": 180,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/223/790/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Odriozola -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 176,
+          "peso_kg": 66,
+          "foto": "https://cdn.sofifa.net/players/234/035/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Aihen Muñoz -": {
+          "overall": 75,
+          "potential": 76,
+          "altura_cm": 175,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/246/748/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Jon Mikel Aramburu Mejías -": {
+          "overall": 74,
+          "potential": 82,
+          "altura_cm": 176,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/259/848/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Arsen Zakharyan -": {
+          "overall": 74,
+          "potential": 84,
+          "altura_cm": 182,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/264/701/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Javi López -": {
+          "overall": 73,
+          "potential": 80,
+          "altura_cm": 184,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/256/097/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Orri Steinn Óskarsson -": {
+          "overall": 73,
+          "potential": 84,
+          "altura_cm": 186,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/269/186/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Pacheco -": {
+          "overall": 72,
+          "potential": 80,
+          "altura_cm": 184,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/255/854/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Olasagasti -": {
+          "overall": 71,
+          "potential": 77,
+          "altura_cm": 176,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/262/500/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Turrientes -": {
+          "overall": 71,
+          "potential": 80,
+          "altura_cm": 181,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/262/510/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Unai Marrero -": {
+          "overall": 67,
+          "potential": 75,
+          "altura_cm": 189,
+          "peso_kg": 82,
+          "foto": "https://cdn.sofifa.net/players/265/520/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Pablo Marín -": {
+          "overall": 67,
+          "potential": 80,
+          "altura_cm": 178,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/272/455/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Mariezkurrena -": {
+          "overall": 65,
+          "potential": 80,
+          "altura_cm": 181,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/075/936/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Fraga -": {
+          "overall": 64,
+          "potential": 74,
+          "altura_cm": 194,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/278/045/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Mikel Goti -": {
+          "overall": 64,
+          "potential": 73,
+          "altura_cm": 185,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/074/087/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Rupérez -": {
+          "overall": 64,
+          "potential": 74,
+          "altura_cm": 180,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/070/264/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Jon Balda -": {
+          "overall": 63,
+          "potential": 72,
+          "altura_cm": 174,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/074/088/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Dani Díaz -": {
+          "overall": 63,
+          "potential": 83,
+          "altura_cm": 165,
+          "peso_kg": 58,
+          "foto": "https://cdn.sofifa.net/players/078/014/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Luken Beitia -": {
+          "overall": 62,
+          "potential": 77,
+          "altura_cm": 191,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/077/528/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Jon Martín -": {
+          "overall": 62,
+          "potential": 82,
+          "altura_cm": 185,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/277/225/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Arana -": {
+          "overall": 60,
+          "potential": 69,
+          "altura_cm": 197,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/271/920/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        }
+      }
+    },
+    "Real Valladolid CF": {
+      "medias": {
+        "ataque": 66.6,
+        "meio": 69.6,
+        "defesa": 68.3,
+        "goleiro": 67.7
+      },
+      "jogadores": {
+        "Florian Grillitsch -": {
+          "overall": 76,
+          "potential": 76,
+          "altura_cm": 187,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/228/336/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Darwin Daniel Machís Marcano -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 174,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/210/463/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Joseph Aidoo -": {
+          "overall": 75,
+          "potential": 76,
+          "altura_cm": 184,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/230/021/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Raúl Moro -": {
+          "overall": 74,
+          "potential": 84,
+          "altura_cm": 168,
+          "peso_kg": 67,
+          "foto": "https://cdn.sofifa.net/players/258/139/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Iván Sánchez -": {
+          "overall": 73,
+          "potential": 73,
+          "altura_cm": 169,
+          "peso_kg": 66,
+          "foto": "https://cdn.sofifa.net/players/204/863/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Javi Sánchez -": {
+          "overall": 73,
+          "potential": 75,
+          "altura_cm": 189,
+          "peso_kg": 84,
+          "foto": "https://cdn.sofifa.net/players/245/238/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Luis Pérez -": {
+          "overall": 72,
+          "potential": 72,
+          "altura_cm": 174,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/235/088/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Selim Amallah -": {
+          "overall": 72,
+          "potential": 72,
+          "altura_cm": 185,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/229/010/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Eray Ervin Cömert -": {
+          "overall": 72,
+          "potential": 74,
+          "altura_cm": 183,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/233/885/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Amath Ndiaye Diedhiou -": {
+          "overall": 72,
+          "potential": 72,
+          "altura_cm": 173,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/233/631/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Mamadou Sylla Diallo -": {
+          "overall": 72,
+          "potential": 72,
+          "altura_cm": 184,
+          "peso_kg": 84,
+          "foto": "https://cdn.sofifa.net/players/224/967/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Henrique -": {
+          "overall": 72,
+          "potential": 72,
+          "altura_cm": 173,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/217/821/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Latasa -": {
+          "overall": 71,
+          "potential": 77,
+          "altura_cm": 192,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/271/682/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Antonio Candela -": {
+          "overall": 71,
+          "potential": 76,
+          "altura_cm": 185,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/252/315/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Karl Jakob Hein -": {
+          "overall": 71,
+          "potential": 81,
+          "altura_cm": 193,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/248/732/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Kenedy -": {
+          "overall": 70,
+          "potential": 70,
+          "altura_cm": 180,
+          "peso_kg": 85,
+          "foto": "https://cdn.sofifa.net/players/215/639/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Cenk Özkaçar -": {
+          "overall": 70,
+          "potential": 75,
+          "altura_cm": 190,
+          "peso_kg": 85,
+          "foto": "https://cdn.sofifa.net/players/258/396/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Marcos André -": {
+          "overall": 70,
+          "potential": 70,
+          "altura_cm": 184,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/252/084/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Stanko Jurić -": {
+          "overall": 70,
+          "potential": 71,
+          "altura_cm": 188,
+          "peso_kg": 82,
+          "foto": "https://cdn.sofifa.net/players/262/581/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "André Ferreira -": {
+          "overall": 69,
+          "potential": 70,
+          "altura_cm": 193,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/244/020/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Anuar -": {
+          "overall": 69,
+          "potential": 69,
+          "altura_cm": 174,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/225/699/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Mario Martín -": {
+          "overall": 68,
+          "potential": 79,
+          "altura_cm": 177,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/274/555/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "David Torres -": {
+          "overall": 67,
+          "potential": 76,
+          "altura_cm": 182,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/270/879/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Tamás Nikitscher -": {
+          "overall": 67,
+          "potential": 71,
+          "altura_cm": 193,
+          "peso_kg": 82,
+          "foto": "https://cdn.sofifa.net/players/276/159/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Chuki -": {
+          "overall": 66,
+          "potential": 78,
+          "altura_cm": 172,
+          "peso_kg": 64,
+          "foto": "https://cdn.sofifa.net/players/271/267/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Adam Aznou Ben Cheikh -": {
+          "overall": 65,
+          "potential": 82,
+          "altura_cm": 178,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/070/448/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Arnau Rafús -": {
+          "overall": 63,
+          "potential": 72,
+          "altura_cm": 190,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/278/071/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Koke -": {
+          "overall": 62,
+          "potential": 77,
+          "altura_cm": 172,
+          "peso_kg": 67,
+          "foto": "https://cdn.sofifa.net/players/072/107/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Raúl Chasco -": {
+          "overall": 62,
+          "potential": 72,
+          "altura_cm": 179,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/074/441/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Ibrahim Akitunde Alani -": {
+          "overall": 61,
+          "potential": 77,
+          "altura_cm": 177,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/078/642/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Xavi Moreno -": {
+          "overall": 61,
+          "potential": 71,
+          "altura_cm": 175,
+          "peso_kg": 66,
+          "foto": "https://cdn.sofifa.net/players/078/729/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Iago Parente -": {
+          "overall": 59,
+          "potential": 74,
+          "altura_cm": 180,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/078/366/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Arnu -": {
+          "overall": 59,
+          "potential": 80,
+          "altura_cm": 185,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/279/682/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Mario Maroto -": {
+          "overall": 55,
+          "potential": 69,
+          "altura_cm": 176,
+          "peso_kg": 66,
+          "foto": "https://cdn.sofifa.net/players/278/524/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        }
+      }
+    },
+    "Sevilla FC": {
+      "medias": {
+        "ataque": 65.0,
+        "meio": 71.4,
+        "defesa": 72.5,
+        "goleiro": 69.5
+      },
+      "jogadores": {
+        "Dodi Lukébakio Ngandoli -": {
+          "overall": 81,
+          "potential": 81,
+          "altura_cm": 187,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/231/416/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Suso -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 177,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/202/651/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Loïc Badé -": {
+          "overall": 78,
+          "potential": 84,
+          "altura_cm": 191,
+          "peso_kg": 89,
+          "foto": "https://cdn.sofifa.net/players/255/106/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Chidera Ejuke -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 176,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/238/050/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Nemanja Gudelj -": {
+          "overall": 78,
+          "potential": 78,
+          "altura_cm": 187,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/193/198/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Marcão -": {
+          "overall": 77,
+          "potential": 78,
+          "altura_cm": 185,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/234/426/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Saúl -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 184,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/208/421/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Mohameth Djibril Ibrahima Sow -": {
+          "overall": 76,
+          "potential": 76,
+          "altura_cm": 184,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/229/752/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Albert Mboyo Sambi Lokonga -": {
+          "overall": 75,
+          "potential": 79,
+          "altura_cm": 183,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/241/928/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Adrià Pedrosa -": {
+          "overall": 75,
+          "potential": 76,
+          "altura_cm": 176,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/246/113/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Carmona -": {
+          "overall": 75,
+          "potential": 83,
+          "altura_cm": 183,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/264/172/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Rubén Estephan Vargas Martínez -": {
+          "overall": 75,
+          "potential": 76,
+          "altura_cm": 177,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/238/581/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Tanguy-Austin Nianzou Kouassi -": {
+          "overall": 74,
+          "potential": 82,
+          "altura_cm": 191,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/252/961/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Isaac -": {
+          "overall": 74,
+          "potential": 79,
+          "altura_cm": 184,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/069/967/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Kike Salas -": {
+          "overall": 74,
+          "potential": 84,
+          "altura_cm": 186,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/271/755/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Lucien Jefferson Agoume -": {
+          "overall": 74,
+          "potential": 82,
+          "altura_cm": 188,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/246/683/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Peque -": {
+          "overall": 74,
+          "potential": 83,
+          "altura_cm": 172,
+          "peso_kg": 65,
+          "foto": "https://cdn.sofifa.net/players/270/301/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Álvaro -": {
+          "overall": 74,
+          "potential": 78,
+          "altura_cm": 186,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/236/515/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Juanlu Sánchez -": {
+          "overall": 74,
+          "potential": 84,
+          "altura_cm": 186,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/264/174/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Akor Jerome Adams -": {
+          "overall": 73,
+          "potential": 78,
+          "altura_cm": 190,
+          "peso_kg": 92,
+          "foto": "https://cdn.sofifa.net/players/266/256/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Alberto Flores -": {
+          "overall": 65,
+          "potential": 79,
+          "altura_cm": 186,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/272/427/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Manu Bueno -": {
+          "overall": 65,
+          "potential": 79,
+          "altura_cm": 178,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/275/520/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Darío Benavides -": {
+          "overall": 65,
+          "potential": 76,
+          "altura_cm": 178,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/279/506/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Hormigo -": {
+          "overall": 64,
+          "potential": 75,
+          "altura_cm": 182,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/275/622/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Stanis Idumbo Muzambo -": {
+          "overall": 64,
+          "potential": 82,
+          "altura_cm": 171,
+          "peso_kg": 61,
+          "foto": "https://cdn.sofifa.net/players/070/893/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Ramón Martínez -": {
+          "overall": 63,
+          "potential": 76,
+          "altura_cm": 185,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/075/565/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Álvaro Pascual -": {
+          "overall": 62,
+          "potential": 71,
+          "altura_cm": 190,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/076/043/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Mateo Mejía -": {
+          "overall": 61,
+          "potential": 73,
+          "altura_cm": 188,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/258/172/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Isra Dominguez -": {
+          "overall": 60,
+          "potential": 72,
+          "altura_cm": 176,
+          "peso_kg": 64,
+          "foto": "https://cdn.sofifa.net/players/075/564/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Leandro Antonetti López -": {
+          "overall": 60,
+          "potential": 71,
+          "altura_cm": 188,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/269/199/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Alberto Collado -": {
+          "overall": 56,
+          "potential": 72,
+          "altura_cm": 176,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/074/585/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Pablo Rivera -": {
+          "overall": 54,
+          "potential": 64,
+          "altura_cm": 178,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/074/590/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        }
+      }
+    },
+    "UD Las Palmas": {
+      "medias": {
+        "ataque": 69.7,
+        "meio": 72.1,
+        "defesa": 71.4,
+        "goleiro": 65.6
+      },
+      "jogadores": {
+        "Moleiro -": {
+          "overall": 79,
+          "potential": 86,
+          "altura_cm": 171,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/264/388/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Jacobus Antonius Peter Cillessen -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 186,
+          "peso_kg": 85,
+          "foto": "https://cdn.sofifa.net/players/199/987/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Fábio Silva -": {
+          "overall": 78,
+          "potential": 85,
+          "altura_cm": 185,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/252/037/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Mika Mármol -": {
+          "overall": 76,
+          "potential": 83,
+          "altura_cm": 181,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/266/160/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Kirian -": {
+          "overall": 76,
+          "potential": 76,
+          "altura_cm": 178,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/251/011/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Scott Fraser McKenna -": {
+          "overall": 76,
+          "potential": 78,
+          "altura_cm": 189,
+          "peso_kg": 89,
+          "foto": "https://cdn.sofifa.net/players/225/974/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Javi Muñoz -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 177,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/226/157/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Sandro -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 175,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/217/731/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Campaña -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 179,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/199/823/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Dário Essugo -": {
+          "overall": 75,
+          "potential": 85,
+          "altura_cm": 180,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/261/530/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Adnan Januzaj -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 186,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/208/330/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Oliver Robert McBurnie -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 188,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/220/031/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Álex Muñoz -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 187,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/211/857/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Álex Suárez -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 180,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/251/337/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Manu Fuster -": {
+          "overall": 73,
+          "potential": 73,
+          "altura_cm": 169,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/252/079/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Enzo Loiodice -": {
+          "overall": 72,
+          "potential": 77,
+          "altura_cm": 177,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/243/478/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Dinko Horkaš -": {
+          "overall": 72,
+          "potential": 77,
+          "altura_cm": 189,
+          "peso_kg": 82,
+          "foto": "https://cdn.sofifa.net/players/244/262/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Stefan Bajcetic -": {
+          "overall": 72,
+          "potential": 83,
+          "altura_cm": 185,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/271/975/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Viti Rozada -": {
+          "overall": 72,
+          "potential": 73,
+          "altura_cm": 171,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/234/350/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Herzog -": {
+          "overall": 71,
+          "potential": 82,
+          "altura_cm": 186,
+          "peso_kg": 85,
+          "foto": "https://cdn.sofifa.net/players/278/403/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Andy Joseph Pelmard -": {
+          "overall": 70,
+          "potential": 75,
+          "altura_cm": 180,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/247/412/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Marvin -": {
+          "overall": 69,
+          "potential": 70,
+          "altura_cm": 177,
+          "peso_kg": 65,
+          "foto": "https://cdn.sofifa.net/players/258/922/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Mata -": {
+          "overall": 68,
+          "potential": 68,
+          "altura_cm": 186,
+          "peso_kg": 80,
+          "foto": "https://cdn.sofifa.net/players/223/578/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Marc Cardona -": {
+          "overall": 68,
+          "potential": 68,
+          "altura_cm": 182,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/236/393/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Benito -": {
+          "overall": 67,
+          "potential": 67,
+          "altura_cm": 179,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/235/515/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Elías Romero -": {
+          "overall": 64,
+          "potential": 78,
+          "altura_cm": 179,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/077/156/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Aboubacar Bassinga -": {
+          "overall": 63,
+          "potential": 79,
+          "altura_cm": 178,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/074/370/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Valentín Pezzolesi -": {
+          "overall": 63,
+          "potential": 80,
+          "altura_cm": 175,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/074/371/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Sergio Viera -": {
+          "overall": 61,
+          "potential": 76,
+          "altura_cm": 178,
+          "peso_kg": 62,
+          "foto": "https://cdn.sofifa.net/players/076/546/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Sergio Ruiz -": {
+          "overall": 61,
+          "potential": 79,
+          "altura_cm": 177,
+          "peso_kg": 68,
+          "foto": "https://cdn.sofifa.net/players/077/155/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Killane -": {
+          "overall": 60,
+          "potential": 77,
+          "altura_cm": 186,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/278/872/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Israel Mora -": {
+          "overall": 59,
+          "potential": 74,
+          "altura_cm": 184,
+          "peso_kg": 76,
+          "foto": "https://cdn.sofifa.net/players/076/545/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Victor Puig -": {
+          "overall": 58,
+          "potential": 76,
+          "altura_cm": 185,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/074/882/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        }
+      }
+    },
+    "Valencia CF": {
+      "medias": {
+        "ataque": 71.8,
+        "meio": 72.0,
+        "defesa": 71.5,
+        "goleiro": 73.0
+      },
+      "jogadores": {
+        "Giorgi Mamardashvili -": {
+          "overall": 85,
+          "potential": 88,
+          "altura_cm": 199,
+          "peso_kg": 88,
+          "foto": "https://cdn.sofifa.net/players/262/621/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Gayà -": {
+          "overall": 82,
+          "potential": 82,
+          "altura_cm": 172,
+          "peso_kg": 66,
+          "foto": "https://cdn.sofifa.net/players/211/688/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Pepelu -": {
+          "overall": 79,
+          "potential": 82,
+          "altura_cm": 186,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/230/786/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Stole Dimitrievski -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 188,
+          "peso_kg": 84,
+          "foto": "https://cdn.sofifa.net/players/211/348/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Diego López -": {
+          "overall": 78,
+          "potential": 86,
+          "altura_cm": 172,
+          "peso_kg": 63,
+          "foto": "https://cdn.sofifa.net/players/264/238/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Thierry Correia -": {
+          "overall": 78,
+          "potential": 81,
+          "altura_cm": 176,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/247/832/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Mosquera -": {
+          "overall": 77,
+          "potential": 84,
+          "altura_cm": 188,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/264/846/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Hugo Duro -": {
+          "overall": 77,
+          "potential": 82,
+          "altura_cm": 177,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/243/032/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Umar Sadiq Mesbah -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 192,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/231/627/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Luis Rioja -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 176,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/224/415/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Mouctar Diakhaby -": {
+          "overall": 76,
+          "potential": 78,
+          "altura_cm": 189,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/230/578/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Enzo Alan Tomás Barrenechea -": {
+          "overall": 75,
+          "potential": 82,
+          "altura_cm": 186,
+          "peso_kg": 81,
+          "foto": "https://cdn.sofifa.net/players/246/871/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "André Almeida -": {
+          "overall": 75,
+          "potential": 80,
+          "altura_cm": 176,
+          "peso_kg": 62,
+          "foto": "https://cdn.sofifa.net/players/247/729/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Javi Guerra -": {
+          "overall": 75,
+          "potential": 84,
+          "altura_cm": 187,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/266/436/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "César Tárrega -": {
+          "overall": 75,
+          "potential": 82,
+          "altura_cm": 193,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/265/726/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Iván Jaime -": {
+          "overall": 74,
+          "potential": 79,
+          "altura_cm": 180,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/246/070/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Dimitri Foulquier -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 183,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/203/177/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Rafa Mir -": {
+          "overall": 74,
+          "potential": 75,
+          "altura_cm": 191,
+          "peso_kg": 86,
+          "foto": "https://cdn.sofifa.net/players/231/628/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Fran Pérez -": {
+          "overall": 72,
+          "potential": 79,
+          "altura_cm": 176,
+          "peso_kg": 67,
+          "foto": "https://cdn.sofifa.net/players/271/373/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Sergi Canós -": {
+          "overall": 72,
+          "potential": 72,
+          "altura_cm": 175,
+          "peso_kg": 66,
+          "foto": "https://cdn.sofifa.net/players/224/013/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Hugo Guillamón -": {
+          "overall": 72,
+          "potential": 77,
+          "altura_cm": 178,
+          "peso_kg": 62,
+          "foto": "https://cdn.sofifa.net/players/246/352/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Jaume -": {
+          "overall": 72,
+          "potential": 72,
+          "altura_cm": 185,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/220/604/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Maximilian James Aarons -": {
+          "overall": 72,
+          "potential": 75,
+          "altura_cm": 171,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/240/060/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Yarek -": {
+          "overall": 70,
+          "potential": 83,
+          "altura_cm": 190,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/278/661/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Jesús Vázquez -": {
+          "overall": 70,
+          "potential": 77,
+          "altura_cm": 172,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/260/082/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Rubén Iranzo -": {
+          "overall": 63,
+          "potential": 72,
+          "altura_cm": 182,
+          "peso_kg": 69,
+          "foto": "https://cdn.sofifa.net/players/266/031/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "David Otorbi -": {
+          "overall": 63,
+          "potential": 78,
+          "altura_cm": 180,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/279/868/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Pedro Alemañ -": {
+          "overall": 62,
+          "potential": 73,
+          "altura_cm": 182,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/272/904/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Ro Abajas -": {
+          "overall": 62,
+          "potential": 73,
+          "altura_cm": 186,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/074/591/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Martín Tejón -": {
+          "overall": 62,
+          "potential": 76,
+          "altura_cm": 165,
+          "peso_kg": 60,
+          "foto": "https://cdn.sofifa.net/players/277/650/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Iker Córdoba -": {
+          "overall": 59,
+          "potential": 76,
+          "altura_cm": 190,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/074/785/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Pablo López -": {
+          "overall": 59,
+          "potential": 77,
+          "altura_cm": 175,
+          "peso_kg": 65,
+          "foto": "https://cdn.sofifa.net/players/076/501/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Raúl Jiménez -": {
+          "overall": 56,
+          "potential": 73,
+          "altura_cm": 186,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/074/593/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        }
+      }
+    },
+    "Villarreal CF": {
+      "medias": {
+        "ataque": 78.0,
+        "meio": 75.1,
+        "defesa": 73.6,
+        "goleiro": 68.8
+      },
+      "jogadores": {
+        "Gerard Moreno -": {
+          "overall": 83,
+          "potential": 83,
+          "altura_cm": 180,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/208/093/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Álex Baena -": {
+          "overall": 82,
+          "potential": 87,
+          "altura_cm": 175,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/257/279/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Parejo -": {
+          "overall": 82,
+          "potential": 82,
+          "altura_cm": 182,
+          "peso_kg": 74,
+          "foto": "https://cdn.sofifa.net/players/189/513/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Ayoze -": {
+          "overall": 81,
+          "potential": 81,
+          "altura_cm": 178,
+          "peso_kg": 66,
+          "foto": "https://cdn.sofifa.net/players/215/590/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Sergi Cardona -": {
+          "overall": 79,
+          "potential": 84,
+          "altura_cm": 185,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/262/402/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Yeremy Pino -": {
+          "overall": 79,
+          "potential": 87,
+          "altura_cm": 172,
+          "peso_kg": 65,
+          "foto": "https://cdn.sofifa.net/players/259/377/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Nicolas Pépé -": {
+          "overall": 79,
+          "potential": 79,
+          "altura_cm": 183,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/226/110/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Juan Marcos Foyth -": {
+          "overall": 78,
+          "potential": 79,
+          "altura_cm": 187,
+          "peso_kg": 83,
+          "foto": "https://cdn.sofifa.net/players/237/221/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Luiz Júnior -": {
+          "overall": 77,
+          "potential": 85,
+          "altura_cm": 194,
+          "peso_kg": 88,
+          "foto": "https://cdn.sofifa.net/players/258/885/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Diego Conde -": {
+          "overall": 77,
+          "potential": 82,
+          "altura_cm": 188,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/258/534/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Santi Comesaña -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 188,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/235/781/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Raúl Albiol -": {
+          "overall": 77,
+          "potential": 77,
+          "altura_cm": 190,
+          "peso_kg": 82,
+          "foto": "https://cdn.sofifa.net/players/157/481/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Logan Evans Costa -": {
+          "overall": 76,
+          "potential": 83,
+          "altura_cm": 190,
+          "peso_kg": 85,
+          "foto": "https://cdn.sofifa.net/players/243/923/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Pape Alassane Gueye -": {
+          "overall": 76,
+          "potential": 79,
+          "altura_cm": 189,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/241/707/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Kiko Femenía -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 174,
+          "peso_kg": 61,
+          "foto": "https://cdn.sofifa.net/players/189/860/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Pedraza -": {
+          "overall": 75,
+          "potential": 75,
+          "altura_cm": 184,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/228/302/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Tajon Trevor Buchanan -": {
+          "overall": 74,
+          "potential": 75,
+          "altura_cm": 183,
+          "peso_kg": 71,
+          "foto": "https://cdn.sofifa.net/players/246/800/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Ilias -": {
+          "overall": 74,
+          "potential": 83,
+          "altura_cm": 175,
+          "peso_kg": 70,
+          "foto": "https://cdn.sofifa.net/players/265/578/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Denis Suárez -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 176,
+          "peso_kg": 66,
+          "foto": "https://cdn.sofifa.net/players/205/192/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Eric Bertrand Bailly -": {
+          "overall": 74,
+          "potential": 74,
+          "altura_cm": 187,
+          "peso_kg": 77,
+          "foto": "https://cdn.sofifa.net/players/225/508/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Thierno Barry -": {
+          "overall": 73,
+          "potential": 82,
+          "altura_cm": 195,
+          "peso_kg": 82,
+          "foto": "https://cdn.sofifa.net/players/276/295/25_120.png",
+          "playstyles": [],
+          "setor": "Ataque"
+        },
+        "Willy Kambwala Ndengushi -": {
+          "overall": 70,
+          "potential": 81,
+          "altura_cm": 192,
+          "peso_kg": 85,
+          "foto": "https://cdn.sofifa.net/players/268/414/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Iker Álvarez -": {
+          "overall": 67,
+          "potential": 75,
+          "altura_cm": 190,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/269/641/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Pau Navarro -": {
+          "overall": 66,
+          "potential": 81,
+          "altura_cm": 185,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/278/659/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Arnau Solà -": {
+          "overall": 66,
+          "potential": 75,
+          "altura_cm": 179,
+          "peso_kg": 73,
+          "foto": "https://cdn.sofifa.net/players/270/335/25_120.png",
+          "playstyles": [],
+          "setor": "Defesa"
+        },
+        "Thiago Ezequiel Ojeda -": {
+          "overall": 63,
+          "potential": 75,
+          "altura_cm": 187,
+          "peso_kg": 72,
+          "foto": "https://cdn.sofifa.net/players/270/738/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        },
+        "Rubén Gómez -": {
+          "overall": 62,
+          "potential": 70,
+          "altura_cm": 182,
+          "peso_kg": 75,
+          "foto": "https://cdn.sofifa.net/players/271/757/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Álex Quevedo -": {
+          "overall": 61,
+          "potential": 73,
+          "altura_cm": 191,
+          "peso_kg": 79,
+          "foto": "https://cdn.sofifa.net/players/070/021/25_120.png",
+          "playstyles": [],
+          "setor": "Goleiro"
+        },
+        "Alassane Diatta -": {
+          "overall": 60,
+          "potential": 72,
+          "altura_cm": 190,
+          "peso_kg": 78,
+          "foto": "https://cdn.sofifa.net/players/075/748/25_120.png",
+          "playstyles": [],
+          "setor": "Meio"
+        }
+      }
+    }
+  }
+}

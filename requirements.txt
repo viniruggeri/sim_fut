@@ -1,0 +1,7 @@
+pandas>=2.1
+numpy>=1.27
+scipy>=1.11
+matplotlib>=3.8
+seaborn>=0.12
+tqdm>=4.70
+streamlit>=1.30

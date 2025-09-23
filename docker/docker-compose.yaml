@@ -1,0 +1,37 @@
+version: "3.9"
+
+services:
+  simple:
+    build:
+      context: .
+      dockerfile: docker/simple.Dockerfile
+    container_name: sim_fut_simple
+    volumes:
+      - ./results:/app/results
+      - ./data:/app/data
+      - ./config:/app/config
+    command: python scripts/run_simple.py --config config/config.yaml
+
+  advanced:
+    build:
+      context: .
+      dockerfile: docker/advanced.Dockerfile
+    container_name: sim_fut_advanced
+    volumes:
+      - ./results:/app/results
+      - ./data:/app/data
+      - ./config:/app/config
+    command: python scripts/run_advanced.py --config config/config.yaml
+
+  interface:
+    build:
+      context: .
+      dockerfile: docker/interface.Dockerfile
+    container_name: sim_fut_interface
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./results:/app/results
+      - ./data:/app/data
+      - ./config:/app/config
+    command: streamlit run interface/app.py --server.port=8501 --server.address=0.0.0.0
