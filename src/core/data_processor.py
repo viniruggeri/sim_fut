@@ -3,9 +3,17 @@ import json
 from datetime import datetime
 import hashlib
 import pathlib
+import sys
+from pathlib import Path
+
+# Adicionar config ao path
+config_path = Path(__file__).parent.parent.parent / "config"
+sys.path.insert(0, str(config_path))
+
+from config import config
 
 # carrega dataset
-df = pd.read_csv("./data/fifa25_players.csv")
+df = pd.read_csv("./data/raw/fifa25_players.csv")
 df = df.dropna(subset=["club_name", "overall_rating"])
 
 # set de ligas top 5
@@ -34,7 +42,7 @@ def classify_sector(positions):
 df["setor"] = df["positions"].apply(classify_sector)
 
 # saída organizada
-out_dir = pathlib.Path("./json_ligas")
+out_dir = pathlib.Path("./data/processed/leagues")
 out_dir.mkdir(exist_ok=True)
 
 # loop por liga
@@ -90,4 +98,8 @@ for liga, fname in top5_leagues.items():
     with open(out_dir / f"{fname}_2025.json", "w", encoding="utf-8") as f:
         json.dump(json_final, f, ensure_ascii=False, indent=2)
 
-print("Arquivos gerados em ./json_ligas/")
+print("Arquivos gerados em ./data/processed/leagues/")
+
+def main():
+    """Função principal para ser chamada pelos scripts."""
+    print("✅ Processamento de dados concluído!")

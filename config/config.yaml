@@ -4,8 +4,8 @@ league: premier_league
 # Caminhos dos arquivos
 paths:
   data: ./data/
-  json_ligas: ./json_ligas/
-  results: ./resultados/
+  json_ligas: ./data/processed/leagues/
+  results: ./data/processed/resultados/
 
 # Configurações de Simulação
 simulation:

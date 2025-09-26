@@ -4,7 +4,14 @@ import json
 import datetime
 import hashlib
 import pathlib
-from config.config import config, logger
+import sys
+from pathlib import Path
+
+# Adicionar config ao path
+config_path = Path(__file__).parent.parent.parent.parent / "config"
+sys.path.insert(0, str(config_path))
+
+from config import config, logger
 
 # Configurações do YAML
 LEAGUE = config["league"]
@@ -123,3 +130,7 @@ with open(json_path, "w", encoding="utf-8") as f:
 logger.info("Simulação concluída com sucesso!")
 print(df_final)
 print(f"\nResultados salvos em:\n{csv_path}\n{json_path}")
+
+def main():
+    """Função principal para ser chamada pelos scripts."""
+    print("✅ Simulação concluída!")
