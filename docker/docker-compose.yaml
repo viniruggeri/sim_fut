@@ -6,32 +6,41 @@ services:
       context: .
       dockerfile: docker/simple.Dockerfile
     container_name: sim_fut_simple
+    environment:
+      - CONTAINER_TYPE=simple
+      - LEAGUE=${LEAGUE:-premier_league}
     volumes:
-      - ./results:/app/results
       - ./data:/app/data
       - ./config:/app/config
-    command: python scripts/run_simple.py --config config/config.yaml
+      - ./results:/app/results
+    entrypoint: ["/app/docker/entrypoint.sh"]
 
   advanced:
     build:
       context: .
       dockerfile: docker/advanced.Dockerfile
     container_name: sim_fut_advanced
+    environment:
+      - CONTAINER_TYPE=advanced
+      - LEAGUE=${LEAGUE:-premier_league}
     volumes:
-      - ./results:/app/results
       - ./data:/app/data
       - ./config:/app/config
-    command: python scripts/run_advanced.py --config config/config.yaml
+      - ./results:/app/results
+    entrypoint: ["/app/docker/entrypoint.sh"]
 
   interface:
     build:
       context: .
       dockerfile: docker/interface.Dockerfile
     container_name: sim_fut_interface
+    environment:
+      - CONTAINER_TYPE=interface
+      - LEAGUE=${LEAGUE:-premier_league}
     ports:
       - "8501:8501"
     volumes:
-      - ./results:/app/results
       - ./data:/app/data
       - ./config:/app/config
-    command: streamlit run interface/app.py --server.port=8501 --server.address=0.0.0.0
+      - ./results:/app/results
+    entrypoint: ["/app/docker/entrypoint.sh"]

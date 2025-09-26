@@ -16,3 +16,6 @@ logging.basicConfig(
 )
 
 logger = logging.getLogger(__name__)
+
+# Exportar variáveis para uso com import *
+__all__ = ['config', 'logger']

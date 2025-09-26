@@ -1,0 +1,207 @@
+{
+  "version": "1.0.0",
+  "created_at": "2025-09-26_02-20-45",
+  "hash": "sha256:a17ba99c7fc9c4d35d136bf1fd8195f15e5406976a56f7347195443153c3e075",
+  "tabela_final": [
+    {
+      "index": "West Ham United",
+      "P": 62,
+      "V": 18,
+      "E": 8,
+      "D": 12,
+      "GP": 54,
+      "GC": 39,
+      "SG": 15
+    },
+    {
+      "index": "Aston Villa",
+      "P": 62,
+      "V": 16,
+      "E": 14,
+      "D": 8,
+      "GP": 55,
+      "GC": 32,
+      "SG": 23
+    },
+    {
+      "index": "Chelsea",
+      "P": 59,
+      "V": 16,
+      "E": 11,
+      "D": 11,
+      "GP": 39,
+      "GC": 37,
+      "SG": 2
+    },
+    {
+      "index": "Brighton & Hove Albion",
+      "P": 58,
+      "V": 16,
+      "E": 10,
+      "D": 12,
+      "GP": 53,
+      "GC": 43,
+      "SG": 10
+    },
+    {
+      "index": "Newcastle United",
+      "P": 56,
+      "V": 16,
+      "E": 8,
+      "D": 14,
+      "GP": 44,
+      "GC": 50,
+      "SG": -6
+    },
+    {
+      "index": "Ipswich Town",
+      "P": 56,
+      "V": 15,
+      "E": 11,
+      "D": 12,
+      "GP": 40,
+      "GC": 39,
+      "SG": 1
+    },
+    {
+      "index": "Manchester City",
+      "P": 54,
+      "V": 14,
+      "E": 12,
+      "D": 12,
+      "GP": 40,
+      "GC": 36,
+      "SG": 4
+    },
+    {
+      "index": "Crystal Palace",
+      "P": 52,
+      "V": 13,
+      "E": 13,
+      "D": 12,
+      "GP": 37,
+      "GC": 30,
+      "SG": 7
+    },
+    {
+      "index": "Tottenham Hotspur",
+      "P": 51,
+      "V": 14,
+      "E": 9,
+      "D": 15,
+      "GP": 48,
+      "GC": 45,
+      "SG": 3
+    },
+    {
+      "index": "Southampton",
+      "P": 51,
+      "V": 13,
+      "E": 12,
+      "D": 13,
+      "GP": 39,
+      "GC": 40,
+      "SG": -1
+    },
+    {
+      "index": "Fulham FC",
+      "P": 51,
+      "V": 13,
+      "E": 12,
+      "D": 13,
+      "GP": 37,
+      "GC": 38,
+      "SG": -1
+    },
+    {
+      "index": "Nottingham Forest",
+      "P": 51,
+      "V": 12,
+      "E": 15,
+      "D": 11,
+      "GP": 34,
+      "GC": 34,
+      "SG": 0
+    },
+    {
+      "index": "Brentford",
+      "P": 50,
+      "V": 13,
+      "E": 11,
+      "D": 14,
+      "GP": 43,
+      "GC": 46,
+      "SG": -3
+    },
+    {
+      "index": "Leicester City",
+      "P": 50,
+      "V": 13,
+      "E": 11,
+      "D": 14,
+      "GP": 37,
+      "GC": 49,
+      "SG": -12
+    },
+    {
+      "index": "AFC Bournemouth",
+      "P": 48,
+      "V": 12,
+      "E": 12,
+      "D": 14,
+      "GP": 45,
+      "GC": 42,
+      "SG": 3
+    },
+    {
+      "index": "Liverpool",
+      "P": 47,
+      "V": 12,
+      "E": 11,
+      "D": 15,
+      "GP": 46,
+      "GC": 48,
+      "SG": -2
+    },
+    {
+      "index": "Wolverhampton Wanderers",
+      "P": 46,
+      "V": 12,
+      "E": 10,
+      "D": 16,
+      "GP": 42,
+      "GC": 46,
+      "SG": -4
+    },
+    {
+      "index": "Arsenal",
+      "P": 45,
+      "V": 12,
+      "E": 9,
+      "D": 17,
+      "GP": 40,
+      "GC": 47,
+      "SG": -7
+    },
+    {
+      "index": "Manchester United",
+      "P": 41,
+      "V": 10,
+      "E": 11,
+      "D": 17,
+      "GP": 38,
+      "GC": 55,
+      "SG": -17
+    },
+    {
+      "index": "Everton",
+      "P": 39,
+      "V": 9,
+      "E": 12,
+      "D": 17,
+      "GP": 38,
+      "GC": 53,
+      "SG": -15
+    }
+  ]
+}

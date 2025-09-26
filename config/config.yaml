@@ -12,9 +12,9 @@ simulation:
   # Turno duplo (ida e volta)
   double_round: true
 
-  # Fatores de aleatoriedade para o motor de simulação
-  random_factor_min: 0.5
-  random_factor_max: 1.5
+  # Fatores de aleatoriedade para o motor de simulação (reduzidos para maior realismo)
+  random_factor_min: 0.8
+  random_factor_max: 1.2
 
   # Seed para reproduzibilidade (remova ou defina como null para aleatoriedade)
   seed: 42
